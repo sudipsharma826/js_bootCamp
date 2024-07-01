@@ -13,5 +13,4 @@ Terms To Know before getting into the code:
   ->eval(value):eval is a built-in JavaScript function that evaluates a string as a 
   JavaScript expression. In this case, it takes the string from the display's 
   value (the mathematical expression) and computes its result.
-  ->display.value =eval(display.value) : This update the input feild with the string retrn from 
-  eval(display.value)
+  ->display.value =eval(display.value) : This update the input feild with the string returnfrom eval(display.value)
