@@ -1,0 +1,17 @@
+Theory To Be Get To Solved This Task:
+
+Task :Create A Calaculator Using JavaScript
+
+Terms To Know before getting into the code:
+1.Function In JavaScript (Function are the bloc of the code that can be reused frequntly by calling
+)
+2.appenedtodisplay :Display the digits or the operation click in the screen of the Calaculator.
+3.cleardisplay : Press "C" in the caluator ,erase the digits and operator for the screen of Calaculator.
+4.calculateResult : Calculate and display result on the basic of output.But how?
+  ->Acess the element by its class/id name.
+  ->try {... }catch {...} can handle error.In Calaculator error also need to display.
+  ->eval(value):eval is a built-in JavaScript function that evaluates a string as a 
+  JavaScript expression. In this case, it takes the string from the display's 
+  value (the mathematical expression) and computes its result.
+  ->display.value =eval(display.value) : This update the input feild with the string retrn from 
+  eval(display.value)
