@@ -1,1 +1,30 @@
 
+Weather App
+This Weather App is built using JavaScript and the OpenWeatherMap API. It allows users to fetch and display current weather data for any specified location. The application demonstrates the use of JavaScript fundamentals, functions, asynchronous JavaScript, and DOM manipulation.
+
+Live Preview
+Check out the live preview of the Weather App: Weather App Live Preview{ https://www.sudipsharma.com.np/p/whether-app.html}
+
+Features
+Fetch weather data: Users can enter a city name and get the current weather information.
+Weather icons: The app displays relevant weather icons based on the data fetched from the API.
+Current date and time: The app shows the current date and time for the fetched weather data.
+Error handling: Proper error handling for invalid city names or API request failures.
+Important Terms and Concepts
+API (Application Programming Interface)
+An API allows different software applications to communicate with each other. In this app, we use the OpenWeatherMap API to fetch weather data.
+
+Asynchronous JavaScript
+Asynchronous JavaScript allows the program to run other tasks while waiting for an API response. This is implemented using fetch, Promises, and async/await.
+
+DOM (Document Object Model) Manipulation
+DOM manipulation involves selecting and modifying HTML elements dynamically using JavaScript. This app updates the weather information on the webpage based on the fetched data.
+
+Template Literals
+Template literals are a way to include variables and expressions within strings using backticks (`). They allow for more readable and maintainable code.
+
+Destructuring
+Destructuring is a convenient way of extracting multiple values from arrays or objects into variables. This app uses destructuring to extract weather data from the API response.
+
+Error Handling
+Error handling is implemented using try, catch, and finally blocks to manage errors that might occur during the API request or other operations.
