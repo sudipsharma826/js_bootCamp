@@ -26,7 +26,7 @@ The Dynamic Calculator is a fully functional calculator built using JavaScript. 
 
 ### Screenshot
 
-![Dynamic Calculator](screenshot-calculator.png)
+![Dynamic Calculator](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDjU6LPn2Y9Iwv52M04EMgl9nw3Cc_8KkEnJKwjKjRP-9rCOrj672P00K41sbcDn59jkFi0XeAj4E9XKMr1Kix2bUEOf_jltqSohplKaEBvQtJYKlqJO76xKcLx3j4u8qchXoRMiyhiWCiq9S08-UYbmeHeUH3O9FMNXwdk_U4W79Pym2VNENdCyB9tA/s1295/Screenshot%202024-07-03%20144203.png)
 
 ## Task 2: Weather App
 
@@ -54,7 +54,7 @@ Check out the live preview of the Weather App: [Weather App Live Preview](https:
 
 ### Screenshot
 
-![Weather App](screenshot-weather-app.png)
+![Weather App](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigzVKw31ZEeqBqgSIHyNJycifQybQyvnQnpWVYQvv9iZYiS-WpxzcUYxpMx59bVqd2Sb8iw35r09Z7rbbHyyFHyKEhPglqMtkdPhUlHqTz85ZhgED0xqx9Glg6d0wqG9gF80EwR-H_7Fm9bIcPbUILZj2sspvtpZJ13yzv84gNA5hjfHlH4PO0_V2ugL8/s578/Screenshot%202024-07-03%20144354.png)
 
 ## Feedback
 
