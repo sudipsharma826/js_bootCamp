@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #6a11cb, #2575fc);
+    /*background: linear-gradient(to right, #6a11cb, #2575fc);*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,8 +9,8 @@ body {
     color: #fff;
   }
   
-  .container {
-    background: rgba(255, 255, 255, 0.1);
+ .container {
+    background:#40a98a;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
@@ -80,4 +80,3 @@ body {
     display: block;
     margin: 0 auto 20px;
   }
-  
